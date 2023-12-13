@@ -1,0 +1,10 @@
+[
+    ["attack", "hitpoints", "mining"],
+    ["strength", "agility", "smithing"],
+    ["defence", "herblore", "fishing"],
+    ["ranged", "thieving", "cooking"],
+    ["prayer", "crafting", "firemaking"],
+    ["magic", "fletching", "woodcutting"],
+    ["runecraft", "slayer", "farming"],
+    ["construction", "hunter", "total"]
+]
