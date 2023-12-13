@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "OSRS Chat";
+    src: url("fonts/rs-chat.ttf");
+}
+
+@font-face {
+    font-family: "OSRS Chat";
+    src: url("fonts/rs-chat-bold.ttf");
+    font-weight: bold;
+}
